@@ -1,4 +1,4 @@
-# Brain Tumor Stage Classification Using MRI Scans 🧠
+# Brain Tumor Stage Classification Using MRI images  
 
 ## About the Project
 
